@@ -1,0 +1,15 @@
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\bin\Debug\net7.0\tracking.client.exe
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\bin\Debug\net7.0\tracking.client.deps.json
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\bin\Debug\net7.0\tracking.client.runtimeconfig.json
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\bin\Debug\net7.0\tracking.client.dll
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\bin\Debug\net7.0\tracking.client.pdb
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\obj\Debug\net7.0\tracking.client.csproj.AssemblyReference.cache
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\obj\Debug\net7.0\tracking.client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\obj\Debug\net7.0\tracking.client.AssemblyInfoInputs.cache
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\obj\Debug\net7.0\tracking.client.AssemblyInfo.cs
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\obj\Debug\net7.0\tracking.client.csproj.CoreCompileInputs.cache
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\obj\Debug\net7.0\tracking.client.dll
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\obj\Debug\net7.0\refint\tracking.client.dll
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\obj\Debug\net7.0\tracking.client.pdb
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\obj\Debug\net7.0\tracking.client.genruntimeconfig.cache
+C:\Users\Mosal\source\repos\trackingapi\tracking.client\obj\Debug\net7.0\ref\tracking.client.dll
